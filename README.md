@@ -1,3 +1,3 @@
-# Personal Website - Shradheya Thakre
+# Personal Website - Anuraj Rawat
 
-[www.shradheyathakre.me](http://www.shradheyathakre.me) <- Click here to visit the website
+[anurajrawat.github.io](http://www.anuraj.github.io) <- Click here to visit the website
