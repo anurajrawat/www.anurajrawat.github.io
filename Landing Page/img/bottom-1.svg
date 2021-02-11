@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="383" height="210" viewBox="0 0 383 210">
+  <defs>
+    <radialGradient id="movie-a" cx="40.371%" cy="66.795%" r="143.313%" fx="40.371%" fy="66.795%" gradientTransform="matrix(.4312 -.02157 .0093 .99977 .223 .009)">
+      <stop offset="0%" stop-color="#45FC98"/>
+      <stop offset="100%" stop-color="#8FFFBD"/>
+    </radialGradient>
+    <linearGradient id="movie-b" x1="32.716%" x2="67.085%" y1="3.39%" y2="96.682%">
+      <stop offset="0%" stop-color="#65FFB5"/>
+      <stop offset="100%" stop-color="#3AFA8E"/>
+    </linearGradient>
+    <linearGradient id="movie-c" x1="32.718%" x2="67.095%" y1="3.383%" y2="96.684%">
+      <stop offset="0%" stop-color="#65FFB5"/>
+      <stop offset="100%" stop-color="#3AFA8E"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 1)">
+    <path stroke="url(#movie-a)" stroke-dasharray="16" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M380.794,38.286 C380.794,38.286 300.768,-70.791 196.115,82.788 C91.463,236.367 0.3559,127.152 0.3559,127.152" opacity=".5"/>
+    <path fill="url(#movie-b)" fill-opacity=".23" fill-rule="nonzero" d="M181.131,204.696 C216.148,191.836 234.074,153.113 221.171,118.206 C208.267,83.298 169.42,65.425 134.403,78.284 C99.387,91.144 81.46,129.867 94.364,164.775 C107.267,199.682 146.114,217.556 181.131,204.696 Z"/>
+    <path fill="url(#movie-c)" fill-rule="nonzero" d="M172.95,181.666 C196.153,173.143 208.032,147.483 199.484,124.351 C190.935,101.22 165.195,89.377 141.992,97.899 C118.789,106.422 106.91,132.083 115.459,155.214 C124.008,178.346 149.748,190.189 172.95,181.666 Z"/>
+    <path fill="#FFF" fill-rule="nonzero" d="M163.931,130.467 L169.247,123.194 C170.042,122.107 171.731,122.342 172.198,123.604 L179.207,142.57 C179.674,143.832 178.541,145.104 177.228,144.79 L168.45,142.695 L169.109,144.477 C169.915,146.66 168.794,149.088 166.611,149.89 L149.166,156.297 C146.976,157.101 144.551,155.981 143.743,153.794 L137.906,138.002 C137.099,135.819 138.221,133.392 140.404,132.59 L157.849,126.182 C160.038,125.378 162.464,126.498 163.272,128.685 L163.931,130.467 Z"/>
+  </g>
+</svg>
